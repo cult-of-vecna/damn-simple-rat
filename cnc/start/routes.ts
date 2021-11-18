@@ -20,6 +20,8 @@
 
 import Route from '@ioc:Adonis/Core/Route'
 
+import { HttpContextContract } from '@ioc:Adonis/Core/HttpContext'
+
 Route.group(() => {
 
   Route.group(() => {
@@ -27,4 +29,11 @@ Route.group(() => {
     Route.post('', 'BotsController.insert')
   }).prefix('bots')
 
+  Route.group(() => {
+    Route.get('', 'MessagesController.getMultiple')
+    Route.post('', 'MessagesController.insert')
+  }).prefix('messages')
+
 }).prefix('v1')
+
+Route.any('*', ({ response }: HttpContextContract) => response.notFound())

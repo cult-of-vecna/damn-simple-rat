@@ -6,10 +6,10 @@ export default class Message extends BaseModel {
   public id: string
   
   @column()
-  public reply_to: string | null
+  public replyTo: string | null
   
   @column()
-  public bot_id: string
+  public botId: string
   
   @column()
   public content: string
