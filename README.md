@@ -7,5 +7,5 @@ Remote Access Trojan (RAT)
 - front-end  | Nuxt (Node Web Framework)
 - bot-client | Haxe (Programming Language)
 
-# Do you need a Botnet and not 'just' RAT?
+# Do you need a Botnet and not 'just' a RAT?
 https://github.com/zarkones/XENA
