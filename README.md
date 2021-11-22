@@ -8,4 +8,4 @@ Remote Access Trojan (RAT)
 - bot-client | Haxe (Programming Language)
 
 # Do you need a Botnet and not 'just' a RAT?
-https://github.com/zarkones/XENA
+https://xena.network
