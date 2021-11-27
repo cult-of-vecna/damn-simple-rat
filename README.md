@@ -9,3 +9,7 @@ Remote Access Trojan (RAT)
 
 # Do you need a Botnet and not 'just' a RAT?
 https://xena.network
+
+# Support My Research
+
+https://www.patreon.com/zarkones
