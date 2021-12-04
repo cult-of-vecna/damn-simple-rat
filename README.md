@@ -10,9 +10,17 @@ Remote Access Trojan (RAT)
 # Do you need a Botnet and not 'just' a RAT?
 https://xena.network
 
-# Support My Research
+### SUPPORT MY RESEARCH ###
 
-https://www.patreon.com/zarkones
+Working full-time and developing a hobby project is stressful. Gin-Tonic can ease the pain, consider supporting my blackouts.
+
+**Monero:** 87RZRSuASU4cdVXWSXvxLUQ84MpnbpxNHfkucSP9gjNE4TzCUSWT5H7fYunk7JLGPpE9QwHXjZQtaNpeyuKsB8WWLGz13ZJ
+
+**Ethereum:** 0x787Ba8EF8d75489160C6687296839F947DC62736
+
+**Or you can Star this project. It is free to do so.**
+
+[Patreon Support](https://www.patreon.com/zarkones)
 
 ### DISCLAIMER ###
 
